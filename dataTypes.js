@@ -22,6 +22,7 @@ console.log(userLocation);
 let userAddress;
 
 console.log(userAddress); // undefined
+
 console.log(typeof userAddress);
 
 const userNames = [
